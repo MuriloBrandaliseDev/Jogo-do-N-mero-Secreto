@@ -27,7 +27,7 @@ body::before {
 }
 
 .container {
-    width: 80%;
+    width: 65%;
     height: 55%;
     display: flex;
     align-items: center;
@@ -81,7 +81,7 @@ body::before {
     border: none;
     color: #1875E8;
     padding: 1rem;
-    font-size: 24px;
+    font-size: 30px;
     font-weight: 700;
     font-family: 'Inter', sans-serif;
 }
@@ -103,7 +103,7 @@ button {
 }
 
 .texto__paragrafo {
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 400;
 }
 
